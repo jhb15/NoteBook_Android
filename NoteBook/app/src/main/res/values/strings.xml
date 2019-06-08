@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">NoteBook</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">My Notes</string>
+    <string name="title_dashboard">Guardian Search</string>
+    <string name="title_notifications">NoteBook Configuration</string>
+    <string name="title_about">Notifications</string>
 </resources>
